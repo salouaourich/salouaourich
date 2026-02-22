@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Saloua Ourich 👋
 
-<!--
-**salouaourich/salouaourich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student at Final International University, North Cyprus.
+Currently building backend systems with Python and FastAPI.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** Python, JavaScript, SQL
+- **Frameworks:** FastAPI, FlaskAPI
+- **Tools:** Git, Docker, PostgreSQL, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+- Backend Development & DevOps (SFWE477)
+- Software Validation and Testing (SFWE411)
+
+## 🔗 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/saloua-ourich-40a464363/)
+- [LeetCode](https://leetcode.com/u/beZOtCEIKw/)
+- 📧 salouaourich1@gmail.com
+
+## 📌 Featured Projects
+- [Smart Study Timetable Generator](https://github.com/Haytam-CB06/SOFTWARE-ANALYSIS-AND-DESIGN.git) — one sentence description
+
+```
