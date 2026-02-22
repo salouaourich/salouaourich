@@ -18,6 +18,7 @@ Currently building backend systems with Python and FastAPI.
 - 📧 salouaourich1@gmail.com
 
 ## 📌 Featured Projects
-- [Smart Study Timetable Generator](https://github.com/Haytam-CB06/SOFTWARE-ANALYSIS-AND-DESIGN.git) — one sentence description
+- [Smart Study Timetable Generator](https://github.com/Haytam-CB06/SOFTWARE-ANALYSIS-AND-DESIGN.git) —A web application that automatically generates an optimized study schedule based on subjects, available time, and user preferences.
+
 
 ```
